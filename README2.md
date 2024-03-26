@@ -16,7 +16,7 @@ $ virtualenv --python=python3.8 venv
 - Activate virtualenv
 
 ```
-$ source ~/venv_addy/bin/activate
+$ source ~/venv/bin/activate
 ```
 
 - Tip
